@@ -2,15 +2,15 @@
 /* === theme style   ==== */
 
 a{
-     color: #ee0e0e;
+     color: #4000ff;
      transition: .5s;
 }
  a:hover {
      text-decoration: none;
-     color:#ee0e0e;
+     color:#4000ff;
 }
  body {
-     color: #17161a;
+     color: #4000ff;
      font-family: 'Barlow', sans-serif;
      font-weight: 400;
      font-style: normal;
@@ -28,7 +28,7 @@ a{
      font-weight: 700;
      transition: .5s;
      font-size:21px;
-     color: #ee0e0e;
+     color: #4000ff;
      margin: 0 0 10px;
      text-transform: uppercase;
      transition: .5s;
@@ -41,7 +41,7 @@ a{
      position: relative;
 }
  .progress-bar {
-     background-color: #ee0e0e;
+     background-color: #4000ff;
 }
 /*----------------------- Progress Bar Style2 -------------------------*/
  .witr_progress-style2.progress {
@@ -7106,7 +7106,7 @@ a{
      display: none;
 }
  .solutech-header-top {
-     background: #ee0e0e;
+     background: #4000ff;
      padding: 10px 0;
      padding-right: 200px;
      padding-left: 200px;
